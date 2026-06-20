@@ -45,8 +45,10 @@ Replace `your_api_key_here` with your OpenWeather API key.
 Do not use quotes (`""`) or add extra spaces.
 
 ### 4. Start the Development Server
+in the terminal use :
 
 cd app
+
 npm run dev
 ```
 
